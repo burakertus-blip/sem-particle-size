@@ -5,7 +5,7 @@ This repository contains the implementation code for the paper:
 **"Deep Learning Assisted Particle Size Ranking and Estimation from 
 SEM Images without Explicit Segmentation"**  
 Emre Burak Ertuş — Micron (2026)  
-DOI:
+DOI: https://doi.org/10.1016/j.micron.2026.104022
 
 ## Files
 - `syntsem_v3.py` — Synthetic SEM dataset generation
